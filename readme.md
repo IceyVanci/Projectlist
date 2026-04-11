@@ -20,6 +20,22 @@ LLM-Xiangqi Electron 便携版
 
 对原始项目的修改调整
 
+### ColorPhoto
+
+**仓库**: [IceyVanci/colorphoto](https://github.com/IceyVanci/colorphoto)
+
+图片颜色提取工具
+
+这是一个基于 Electron 的图片颜色提取工具，灵感来自在十年前曾经流行过的某种图片贴纸。从导入的图片中分析出图片的主要颜色，然后以色块在图片上显示。拖动色块调整大小，不管是边框，注释，还是NSFW（？），创建属于你的专属设计！
+
+### ColorPhoto-s
+
+**仓库**: [IceyVanci/colorphoto-s](https://github.com/IceyVanci/colorphoto-s)
+
+ColorPhoto 的 Tauri 版本
+
+基于 IceyVanci/colorphoto 移植的 Tauri 版本
+
 ---
 
 ## 开发暂停
