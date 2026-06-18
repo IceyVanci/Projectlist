@@ -20,6 +20,22 @@
 
 这是一个基于 Electron 的图片颜色提取工具，灵感来自在十年前曾经流行过的某种图片贴纸。从导入的图片中分析出图片的主要颜色，然后以色块在图片上显示。拖动色块调整大小，不管是边框，注释，还是NSFW（？），创建属于你的专属设计！
 
+### OneFrame-nas
+
+**仓库**: [IceyVanci/OneFrame-nas](https://github.com/IceyVanci/OneFrame-nas)
+
+OneFrame的docker版本，用于在nas或其他linux设备上部署
+
+### colorphoto-nas
+
+**仓库**: [IceyVanci/colorphoto-nas](https://github.com/IceyVanci/colorphoto-nas)
+
+colorphoto的docker版本，用于在nas或其他linux设备上部署
+
+---
+
+## 开发暂停
+
 ### ColorPhoto-s
 
 **仓库**: [IceyVanci/colorphoto-s](https://github.com/IceyVanci/colorphoto-s)
@@ -28,13 +44,21 @@ ColorPhoto 的 Tauri 版本
 
 基于 IceyVanci/colorphoto 移植的 Tauri 版本
 
----
+### OneFrame-s
 
-## 开发暂停
+**仓库**: [IceyVanci/OneFrame-s](https://github.com/IceyVanci/OneFrame-s)
+
+基于 IceyVanci/OneFrame 移植的 Tauri 版本
 
 ---
 
 ## 开发完成，长期维护中
+
+*暂无项目*
+
+---
+
+## 开发完成/归档
 
 ### llm-xiangqi
 
@@ -43,10 +67,6 @@ ColorPhoto 的 Tauri 版本
 LLM-Xiangqi Electron 便携版
 
 本程序是使用electron实现的原始程序的GUI单文件版本
-
----
-
-## 开发完成/归档
 
 ### minimax-usage-mod
 
@@ -93,9 +113,8 @@ Bilibili点阵显示器
 进行了一些修改，删除了因为API变动无法运行的内容。添加了除3D打印外其他的外壳方案
 
 ---
+
 ## 开发终止
-<details>
-<summary><h2 style="display:inline">开发终止</h2></summary>
 
 ### forza-paint-calculator-cuda
 
@@ -135,4 +154,3 @@ Geometrize CUDA
 
 Geometrize CUDA是原始Geometrize库的GPU加速版本，使用CUDA进行并行计算，显著提升图像几何化处理速度。原始代码的GPU迁移，使用了MIMO V2PRO
 
-</details>
