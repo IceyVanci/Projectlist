@@ -6,14 +6,6 @@
 
 ## 开发中
 
-### ColorPhoto
-
-**仓库**: [IceyVanci/colorphoto](https://github.com/IceyVanci/colorphoto)
-
-图片颜色提取工具
-
-这是一个基于 Electron 的图片颜色提取工具，灵感来自在十年前曾经流行过的某种图片贴纸。从导入的图片中分析出图片的主要颜色，然后以色块在图片上显示。拖动色块调整大小，不管是边框，注释，还是NSFW（？），创建属于你的专属设计！
-
 ### OneFrame-nas
 
 **仓库**: [IceyVanci/OneFrame-nas](https://github.com/IceyVanci/OneFrame-nas)
@@ -58,7 +50,7 @@ MultilanguageMOD for EarthX2 Open Alpha
 
 **仓库**: [IceyVanci/colorphoto-nas](https://github.com/IceyVanci/colorphoto-nas)
 
-这是一个图片颜色提取工具，灵感来自在十年前曾经流行过的某种图片贴纸。从导入的图片中分析出图片的主要颜色，然后以色块在图片上显示。拖动色块调整大小，不管是边框，注释，还是NSFW（？），创建属于你的专属设计！现已并入https://github.com/IceyVanci/OneFrame-nas的在线部署
+这是一个图片颜色提取工具，灵感来自在十年前曾经流行过的某种图片贴纸。从导入的图片中分析出图片的主要颜色，然后以色块在图片上显示。拖动色块调整大小，不管是边框，注释，还是NSFW（？），创建属于你的专属设计！现已并入https://github.com/IceyVanci/OneFrame-nas 的在线部署
 
 ---
 
@@ -67,6 +59,12 @@ MultilanguageMOD for EarthX2 Open Alpha
 ### ColorPhoto-s
 
 **仓库**: [IceyVanci/colorphoto-s](https://github.com/IceyVanci/colorphoto-s)
+
+已经切换到了https://github.com/IceyVanci/colorphoto-nas
+
+### ColorPhoto
+
+**仓库**: [IceyVanci/colorphoto](https://github.com/IceyVanci/colorphoto)
 
 已经切换到了https://github.com/IceyVanci/colorphoto-nas
 
