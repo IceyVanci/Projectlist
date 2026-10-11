@@ -6,12 +6,6 @@
 
 ## 开发中
 
-### OneFrame
-
-**仓库**: [IceyVanci/OneFrame](https://github.com/IceyVanci/OneFrame)
-
-一款简洁优雅的图片边框添加工具，为您的照片自动添加精美的底部边框，并智能显示相机 EXIF 信息。
-
 ### ColorPhoto
 
 **仓库**: [IceyVanci/colorphoto](https://github.com/IceyVanci/colorphoto)
@@ -24,13 +18,47 @@
 
 **仓库**: [IceyVanci/OneFrame-nas](https://github.com/IceyVanci/OneFrame-nas)
 
-OneFrame的docker版本，用于在nas或其他linux设备上部署
+一款简洁优雅的图片边框添加工具，为您的照片自动添加精美的边框，并智能显示相机 EXIF 信息。
+
+### ESPDesktopClock
+
+**仓库**: [IceyVanci/ESPDesktopClock](https://github.com/IceyVanci/ESPDesktopClock)
+
+ESPDesktopClock 是一个基于 ESP32-C3 的桌面时钟系统。
+
+### ESPVirtualKeyboard
+
+**仓库**: [IceyVanci/ESPVirtualKeyboard](https://github.com/IceyVanci/ESPVirtualKeyboard)
+
+ESP32-C3 BLE 虚拟键盘 — 基于蓝牙低功耗的硬件输入模拟器，支持 Web 控制面板、自动模式和配置管理。
+
+### ESPEZUpdater
+
+**仓库**: [IceyVanci/ESPEZUpdater](https://github.com/IceyVanci/ESPEZUpdater)
+
+通用 ESP32 固件升级工具
+
+### StadiaAdapter
+
+**仓库**: [IceyVanci/StadiaAdapter](https://github.com/IceyVanci/StadiaAdapter)
+
+Stadia 手柄的协议转换工具
+
+---
+
+## 开发完成
+
+### EarthX2OAMultilanguageMOD
+
+**仓库**: [IceyVanci/EarthX2OAMultilanguageMOD](https://github.com/IceyVanci/EarthX2OAMultilanguageMOD)
+
+MultilanguageMOD for EarthX2 Open Alpha
 
 ### colorphoto-nas
 
 **仓库**: [IceyVanci/colorphoto-nas](https://github.com/IceyVanci/colorphoto-nas)
 
-colorphoto的docker版本，用于在nas或其他linux设备上部署
+这是一个图片颜色提取工具，灵感来自在十年前曾经流行过的某种图片贴纸。从导入的图片中分析出图片的主要颜色，然后以色块在图片上显示。拖动色块调整大小，不管是边框，注释，还是NSFW（？），创建属于你的专属设计！现已并入https://github.com/IceyVanci/OneFrame-nas的在线部署
 
 ---
 
@@ -40,25 +68,23 @@ colorphoto的docker版本，用于在nas或其他linux设备上部署
 
 **仓库**: [IceyVanci/colorphoto-s](https://github.com/IceyVanci/colorphoto-s)
 
-ColorPhoto 的 Tauri 版本
-
-基于 IceyVanci/colorphoto 移植的 Tauri 版本
+已经切换到了https://github.com/IceyVanci/colorphoto-nas
 
 ### OneFrame-s
 
 **仓库**: [IceyVanci/OneFrame-s](https://github.com/IceyVanci/OneFrame-s)
 
-基于 IceyVanci/OneFrame 移植的 Tauri 版本
+已经切换到了 https://github.com/IceyVanci/OneFrame-nas
+
+### OneFrame
+
+**仓库**: [IceyVanci/OneFrame](https://github.com/IceyVanci/OneFrame)
+
+已经切换到了https://github.com/IceyVanci/OneFrame-nas
 
 ---
 
-## 开发完成，长期维护中
-
-*暂无项目*
-
----
-
-## 开发完成/归档
+## 归档
 
 ### llm-xiangqi
 
